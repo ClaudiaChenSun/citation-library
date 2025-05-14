@@ -1,142 +1,590 @@
 [
   {
-    "Key": "@HealthyEating_2023",
+    "Key": "@DeptOfHealth_FoodPyramid",
     "Title": "Healthy Eating Food Pyramid in Hong Kong",
-    "Author": "Department of Health",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2023
+    "Author": "",
+    "Publisher": "Department of Health. The Government of the Hong Kong Special Administrative Region",
+    "Year": ""
   },
   {
-    "Key": "@DepartmentOfHealth_2023",
-    "Title": "Healthy Eating Food Pyramid in Hong Kong",
-    "Author": "Department of Health",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2023
+    "Key": "@NationalAcademiesPress_2015",
+    "Title": "The Growing Gap in Life Expectancy by Income : Implications for Federal Programs and Policy Responses",
+    "Author": "",
+    "Publisher": "National Academies Press",
+    "Year": "2015"
+  },
+  {
+    "Key": "@Census_2021",
+    "Title": "Statistics - By Subject",
+    "Author": "",
+    "Publisher": "Census and Statistics Department. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2021"
   },
   {
     "Key": "@HealthBureau_2022",
     "Title": "Primary Healthcare Blueprint",
-    "Author": "Health Bureau",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2022
+    "Author": "",
+    "Publisher": "Health Bureau. The Government of the Hong Kong Special Administrative Region.",
+    "Year": "2022"
   },
   {
-    "Key": "@Fottrell_2019",
-    "Title": "Community groups or mobile phone messaging to prevent and control type 2 diabetes and intermediate hyperglycaemia in Bangladesh (DMagic): a cluster-randomised controlled trial",
-    "Author": "Fottrell, Edward",
-    "Publisher": "The Lancet Diabetes & Endocrinology",
-    "Year": 2019
+    "Key": "@DeptOfhealth_2023",
+    "Title": "Health Facts of Hong Kong (2023 Edition)",
+    "Author": "",
+    "Publisher": "Department of Health. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2023"
   },
   {
-    "Key": "@CensusStatistics_2021",
-    "Title": "Statistics - By Subject",
-    "Author": "Census and Statistics Department",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2021
-  },
-  {
-    "Key": "@DepartmentOfHealth_2024a",
+    "Key": "@DeptOfHealth_2024_partI",
     "Title": "Population Health Survey 2020-22 (Part I)",
-    "Author": "Department of Health",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2024
+    "Author": "",
+    "Publisher": "Department of Health. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
   },
   {
-    "Key": "@DepartmentOfHealth_2024b",
-    "Title": "Population Health Survey 2020-22 (Part II)",
-    "Author": "Department of Health",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2024
-  },
-  {
-    "Key": "@CensusStatistics_2024a",
+    "Key": "@Census_2024_Smoking",
     "Title": "Thematic Household Survey Report - Report No. 79 - Pattern of Smoking",
-    "Author": "Census and Statistics Department",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2024
+    "Author": "",
+    "Publisher": "Census and Statistics Department. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
   },
   {
-    "Key": "@CensusStatistics_2024b",
+    "Key": "@DeptOfHealth_2024_PartII",
+    "Title": "Population Health Survey 2020-22 (Part II)",
+    "Author": "",
+    "Publisher": "Department of Health. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Census_2024_AgeAndSex",
     "Title": "Table 110-01001 : Population by Sex and Age Group",
-    "Author": "Census and Statistics Department",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2024
+    "Author": "",
+    "Publisher": "Census and Statistics Department. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
   },
   {
-    "Key": "@CHP_2024",
+    "Key": "@Census_2024_District",
+    "Title": "Table 110-06841 : Mid-year Population by District Council district",
+    "Author": "",
+    "Publisher": "Census and Statistics Department. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Census_2024_Component",
+    "Title": "Table 110-01003 : Population Growth by Component",
+    "Author": "",
+    "Publisher": "Census and Statistics Department. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
+  },
+  {
+    "Key": "@TheCentreForHealthProtection_2024_CausesOfDeath",
     "Title": "Age-standardised Death Rates by Leading Causes of Death, 2001 - 2023",
-    "Author": "The Centre for Health Protection",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2024
+    "Author": "",
+    "Publisher": "The Centre for Health Protection. Department of Health. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
   },
   {
-    "Key": "@CHP_2024b",
+    "Key": "@TheCentreForHealthProtection_2024_DM",
     "Title": "Diabetes Mellitus",
-    "Author": "The Centre for Health Protection",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2024
+    "Author": "",
+    "Publisher": "The Centre for Health Protection. Department of Health. The Government of the Hong Kong Special Administrative Region",
+    "Year": "2024"
   },
   {
     "Key": "@PHIS_2025",
     "Title": "Diabetes Mellitus",
-    "Author": "Public Health Information System (PHIS)",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2025
+    "Author": "",
+    "Publisher": "Public Health Information System (PHIS) of the Department of Health.",
+    "Year": "2025"
   },
   {
-    "Key": "@NCD_2025",
+    "Key": "@NCDBranch_2025",
     "Title": "Report of Health Behaviour Survey 2023",
-    "Author": "Non-communicable Disease Branch, Centre for Health Protection",
-    "Publisher": "The Government of the Hong Kong SAR",
-    "Year": 2025
+    "Author": "",
+    "Publisher": "Non-communicable Disease Branch. Centre for Health Protection. Department of Health. Government of the Hong Kong Special Administrative Region",
+    "Year": "2025"
   },
   {
     "Key": "@Anthony_2015",
     "Title": "Reducing Health Risk Factors in Workplaces of Low and Middle-Income Countries",
     "Author": "Anthony, D.",
     "Publisher": "Public Health Nursing",
-    "Year": 2015
+    "Year": "2015"
   },
   {
     "Key": "@Aung_2019",
     "Title": "Effectiveness of a new multi-component smoking cessation service package for patients with hypertension and diabetes in northern Thailand: a randomized controlled trial (ESCAPE study)",
     "Author": "Aung, Myo Nyein",
     "Publisher": "Substance Abuse Treatment, Prevention, and Policy",
-    "Year": 2019
+    "Year": "2019"
   },
   {
     "Key": "@Brown_2023",
     "Title": "Nutrition and Exercise for Wellness and Recovery: A Randomized Controlled Trial of a Community-Based Health Intervention",
     "Author": "Brown, Catana",
     "Publisher": "Psychiatric Services",
-    "Year": 2023
+    "Year": "2023"
   },
   {
     "Key": "@Chan_2024",
     "Title": "The Hong Kong Renal Registry: a recent update",
     "Author": "Chan, John YH",
-    "Publisher": "Hong Kong Medical Journal",
-    "Year": 2024
+    "Publisher": "Hong Kong Med J",
+    "Year": "2024"
   },
   {
     "Key": "@Chandraratne_2019",
     "Title": "The effect of youths as change agents on cardiovascular disease risk factors among adult neighbours: a cluster randomised controlled trial in Sri Lanka",
     "Author": "Chandraratne, Nadeeka",
     "Publisher": "BMC Public Health",
-    "Year": 2019
+    "Year": "2019"
   },
   {
     "Key": "@Chen_2023",
     "Title": "Efficacy and safety of non-steroidal mineralocorticoid receptor antagonists for renal outcomes: A systematic review and meta-analysis",
     "Author": "Chen, Qi",
     "Publisher": "Diabetes Research and Clinical Practice",
-    "Year": 2023
+    "Year": "2023"
   },
   {
     "Key": "@Cheung_2020",
     "Title": "Can voucher scheme enhance primary care provision for older adults: cross-sectional study in Hong Kong",
     "Author": "Cheung, Johnny T. K.",
     "Publisher": "BMC Geriatrics",
-    "Year": 2020
+    "Year": "2020"
+  },
+  {
+    "Key": "@Cusick_2023",
+    "Title": "Population-Wide Screening for Chronic Kidney Disease",
+    "Author": "Cusick, Marika M.",
+    "Publisher": "Annals of Internal Medicine",
+    "Year": "2023"
+  },
+  {
+    "Key": "@Cusick_2024",
+    "Title": "When to Start Population-Wide Screening for Chronic Kidney Disease",
+    "Author": "Cusick, Marika M.",
+    "Publisher": "JAMA Health Forum",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Direito_2016",
+    "Title": "mHealth Technologies to Influence Physical Activity and Sedentary Behaviors: Behavior Change Techniques, Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+    "Author": "Direito, Artur",
+    "Publisher": "Annals of Behavioral Medicine",
+    "Year": "2016"
+  },
+  {
+    "Key": "@Dong_2022",
+    "Title": "Development and validation of a diabetes mellitus and prediabetes risk prediction function for case finding in primary care in Hong Kong: a cross-sectional study and a prospective study protocol paper",
+    "Author": "Dong, Weinan",
+    "Publisher": "BMJ Open",
+    "Year": "2022"
+  },
+  {
+    "Key": "@Duan_2023",
+    "Title": "Plant-Based Diet and Risk of Frailty in Older Chinese Adults",
+    "Author": "Duan, Y.",
+    "Publisher": "The Journal of nutrition, health and aging",
+    "Year": "2023"
+  },
+  {
+    "Key": "@Fottrell_2019",
+    "Title": "Community groups or mobile phone messaging to prevent and control type 2 diabetes and intermediate hyperglycaemia in Bangladesh (DMagic): a cluster-randomised controlled trial",
+    "Author": "Fottrell, Edward",
+    "Publisher": "The Lancet Diabetes & Endocrinology",
+    "Year": "2019"
+  },
+  {
+    "Key": "@Francis_2024",
+    "Title": "Chronic kidney disease and the global public health agenda: an international consensus",
+    "Author": "Francis, Anna",
+    "Publisher": "Nature Reviews Nephrology",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Ha_2020",
+    "Title": "Relative Validity of Dietary Total Antioxidant Capacity for Predicting All-Cause Mortality in Comparison to Diet Quality Indexes in US Adults",
+    "Author": "Ha, Kyungho",
+    "Publisher": "Nutrients",
+    "Year": "2020"
+  },
+  {
+    "Key": "@Hassen_2023",
+    "Title": "Dietary outcomes of community-based CVD preventive interventions: a systematic review and meta-analysis",
+    "Author": "Hassen, Hamid Y.",
+    "Publisher": "Public Health Nutrition",
+    "Year": "2023"
+  },
+  {
+    "Key": "@Jafar_2009",
+    "Title": "Community-Based Interventions to Promote Blood Pressure Control in a Developing Country",
+    "Author": "Jafar, Tazeen H.",
+    "Publisher": "Annals of Internal Medicine",
+    "Year": "2009"
+  },
+  {
+    "Key": "@Jha_2023",
+    "Title": "Global Economic Burden Associated with Chronic Kidney Disease: A Pragmatic Review of Medical Costs for the Inside CKD Research Programme",
+    "Author": "Jha, Vivekanand",
+    "Publisher": "Advances in Therapy",
+    "Year": "2023"
+  },
+  {
+    "Key": "@Jiao_2018",
+    "Title": "Five-Year Cost-effectiveness of the Multidisciplinary Risk Assessment and Management Programme–Diabetes Mellitus (RAMP-DM)",
+    "Author": "Jiao, Fang Fang",
+    "Publisher": "Diabetes Care",
+    "Year": "2018"
+  },
+  {
+    "Key": "@Nazar_2014",
+    "Title": "Barriers to the successful practice of chronic kidney diseases at the primary health care level; a systematic review",
+    "Author": "Nazar, Chaudhary Muhammad Junaid",
+    "Publisher": "J Renal Inj Prev",
+    "Year": "2014"
+  },
+  {
+    "Key": "@KDIGO_2016",
+    "Title": "KDIGO Guidelines",
+    "Author": "KDIGO",
+    "Publisher": "Kidney Disease Improving Global Outcomes",
+    "Year": "2016"
+  },
+  {
+    "Key": "@Kelishadi_2011",
+    "Title": "Short-Term Results of a Community-Based Program on Promoting Healthy Lifestyle for Prevention and Control of Chronic Diseases in a Developing Country Setting:Isfahan Healthy Heart Program",
+    "Author": "Kelishadi, Roya",
+    "Publisher": "Asia Pacific Journal of Public Health",
+    "Year": "2011"
+  },
+  {
+    "Key": "@Kelly_2021",
+    "Title": "Modifiable Lifestyle Factors for Primary Prevention of CKD: A Systematic Review and Meta-Analysis",
+    "Author": "Kelly, Jaimon T.",
+    "Publisher": "J Am Soc Nephrol",
+    "Year": "2021"
+  },
+  {
+    "Key": "@Komenda_2014",
+    "Title": "Cost-effectiveness of primary screening for CKD: a systematic review",
+    "Author": "Komenda, Paul",
+    "Publisher": "Am J Kidney Dis",
+    "Year": "2014"
+  },
+  {
+    "Key": "@Kovacs_2018",
+    "Title": "Systematic Review and Meta-analysis of the Effectiveness of Implementation Strategies for Non-communicable Disease Guidelines in Primary Health Care",
+    "Author": "Kovacs, Eva",
+    "Publisher": "Journal of General Internal Medicine",
+    "Year": "2018"
+  },
+  {
+    "Key": "@Krijkamp_2018",
+    "Title": "Microsimulation Modeling for Health Decision Sciences Using R: A Tutorial",
+    "Author": "Krijkamp, Eline M.",
+    "Publisher": "Medical Decision Making",
+    "Year": "2018"
+  },
+  {
+    "Key": "@Lam_2021",
+    "Title": "Short Message Service reminders reduce outpatient colonoscopy nonattendance rate: A randomized controlled study",
+    "Author": "Lam, Thomas Y. T.",
+    "Publisher": "J Gastroenterol Hepatol",
+    "Year": "2021"
+  },
+  {
+    "Key": "@Leaf_2021",
+    "Title": "Predicting quantity and quality of life with the Future Elderly Model",
+    "Author": "Leaf, Duncan Ermini",
+    "Publisher": "Health Economics",
+    "Year": "2021"
+  },
+  {
+    "Key": "@Leung_2020",
+    "Title": "Association between obesity, common chronic diseases and health promoting lifestyle profiles in Hong Kong adults: a cross-sectional study",
+    "Author": "Leung, Yan Sin",
+    "Publisher": "BMC Public Health",
+    "Year": "2020"
+  },
+  {
+    "Key": "@Li_2005",
+    "Title": "Prevalence of silent kidney disease in Hong Kong: The Screening for Hong Kong Asymptomatic Renal Population and Evaluation (SHARE) program",
+    "Author": "Li, Philip Kam-Tao",
+    "Publisher": "Kidney International",
+    "Year": "2005"
+  },
+  {
+    "Key": "@Lian_2019",
+    "Title": "Long‐term cost‐effectiveness of a Patient Empowerment Programme for type 2 diabetes mellitus in primary care",
+    "Author": "Lian, Jinxiao",
+    "Publisher": "Diabetes, Obesity and Metabolism",
+    "Year": "2019"
+  },
+  {
+    "Key": "@Lin_2023",
+    "Title": "Association between Dietary Acid Load and Hypertension in Chinese Adults: Analysis of the China Health and Nutrition Survey (2009)",
+    "Author": "Lin, Feng",
+    "Publisher": "Nutrients",
+    "Year": "2023"
+  },
+  {
+    "Key": "@Luepker_2022",
+    "Title": "Association of a Community Population and Clinic Education Intervention Program With Guideline-Based Aspirin Use for Primary Prevention of Cardiovascular Disease: A Nonrandomized Controlled Trial",
+    "Author": "Luepker, Russell V.",
+    "Publisher": "JAMA Network Open",
+    "Year": "2022"
+  },
+  {
+    "Key": "@Lui_2021",
+    "Title": "Kidney Failure and you: At the crossroad for replacement therapy",
+    "Author": "Lui, Siu Fai",
+    "Publisher": "Hong Kong Kidney Foundation Hong Kong Society of Nephrology Hong Kong Association of Renal Nurses",
+    "Year": "2021"
+  },
+  {
+    "Key": "@Lv_2014",
+    "Title": "A community-based multilevel intervention for smoking, physical activity and diet: short-term findings from the Community Interventions for Health programme in Hangzhou, China",
+    "Author": "Lv, Jun",
+    "Publisher": "Journal of Epidemiology and Community Health",
+    "Year": "2014"
+  },
+  {
+    "Key": "@Milchak_2004",
+    "Title": "Measuring adherence to practice guidelines for the management of hypertension: an evaluation of the literature",
+    "Author": "Milchak, J. L.",
+    "Publisher": "Hypertension",
+    "Year": "2004"
+  },
+  {
+    "Key": "@Mok_2019",
+    "Title": "Prevalence of diabetic nephropathy among Chinese patients with type 2 diabetes mellitus and different categories of their estimated glomerular filtration rate based on the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation in primary car",
+    "Author": "Mok, Ka Yee",
+    "Publisher": "Journal of Diabetes & Metabolic Disorders",
+    "Year": "2019"
+  },
+  {
+    "Key": "@Moore_2022",
+    "Title": "Economic evaluations of audit and feedback interventions: a systematic review",
+    "Author": "Moore, Lynne",
+    "Publisher": "BMJ Quality & Safety",
+    "Year": "2022"
+  },
+  {
+    "Key": "@Neupane_2018",
+    "Title": "Effectiveness of a lifestyle intervention led by female community health volunteers versus usual care in blood pressure reduction (COBIN): an open-label, cluster-randomised trial",
+    "Author": "Neupane, Dinesh",
+    "Publisher": "The Lancet Global Health",
+    "Year": "2018"
+  },
+  {
+    "Key": "@Nisar_2024",
+    "Title": "The direct cost of chronic kidney disease (CKD) reported in Asian countries; a systematic literature review",
+    "Author": "Nisar, Memoona",
+    "Publisher": "Cost Effectiveness and Resource Allocation",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Nishtar_2007",
+    "Title": "The Heartfile Lodhran CVD Prevention Project- end of Project Evaluation",
+    "Author": "Nishtar, Sania",
+    "Publisher": "Promotion & Education",
+    "Year": "2007"
+  },
+  {
+    "Key": "@Olshansky_2009",
+    "Title": "Aging in America in the Twenty-first Century: Demographic Forecasts from the MacArthur Foundation Research Network on an Aging Society",
+    "Author": "Olshansky, S. Jay",
+    "Publisher": "Milbank Quarterly",
+    "Year": "2009"
+  },
+  {
+    "Key": "@Park_2017",
+    "Title": "Comparison of urine dipstick and albumin:creatinine ratio for chronic kidney disease screening: A population-based study",
+    "Author": "Park, Ji In",
+    "Publisher": "PLOS ONE",
+    "Year": "2017"
+  },
+  {
+    "Key": "@Pollock_2024",
+    "Title": "Framework of Guidelines for Management of CKD in Asia",
+    "Author": "Pollock, Carol",
+    "Publisher": "Kidney International Reports",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Quan_2021",
+    "Title": "Development and validation of the CHIME simulation model to assess lifetime health outcomes of prediabetes and type 2 diabetes in Chinese populations: A modeling study",
+    "Author": "Quan, Jianchao",
+    "Publisher": "PLOS Medicine",
+    "Year": "2021"
+  },
+  {
+    "Key": "@Salas_2018",
+    "Title": "Effect of a Lifestyle Intervention Program With Energy-Restricted Mediterranean Diet and Exercise on Weight Loss and Cardiovascular Risk Factors: One-Year Results of the PREDIMED-Plus Trial",
+    "Author": "Salas-Salvadó, Jordi",
+    "Publisher": "Diabetes Care",
+    "Year": "2018"
+  },
+  {
+    "Key": "@Shah_2016",
+    "Title": "Targeted Reminder Phone Calls to Patients at High Risk of No-Show for Primary Care Appointment: A Randomized Trial",
+    "Author": "Shah, Sachin J.",
+    "Publisher": "J Gen Intern Med",
+    "Year": "2016"
+  },
+  {
+    "Key": "@Stengel_2003",
+    "Title": "Lifestyle Factors, Obesity and the Risk of Chronic Kidney Disease",
+    "Author": "Stengel, Bénédicte",
+    "Publisher": "Epidemiology",
+    "Year": "2003"
+  },
+  {
+    "Key": "@Tang_2024",
+    "Title": "Management of chronic kidney disease: a Hong Kong consensus recommendation",
+    "Author": "Tang, S. C. W.",
+    "Publisher": "Hong Kong Med J",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Tangri_2011",
+    "Title": "A Predictive Model for Progression of Chronic Kidney Disease to Kidney Failure",
+    "Author": "Tangri, Navdeep",
+    "Publisher": "JAMA",
+    "Year": "2011"
+  },
+  {
+    "Key": "@Tangri_2023",
+    "Title": "Projecting the Epidemiological and Economic Impact of Chronic Kidney Disease Using Patient-Level Microsimulation Modelling: Rationale and Methods of Inside CKD",
+    "Author": "Tangri, Navdeep",
+    "Publisher": "Advances in Therapy",
+    "Year": "2023"
+  },
+  {
+    "Key": "@Thankappan_2018",
+    "Title": "A peer-support lifestyle intervention for preventing type 2 diabetes in India: A cluster-randomized controlled trial of the Kerala Diabetes Prevention Program",
+    "Author": "Thankappan, Kavumpurathu R.",
+    "Publisher": "PLOS Medicine",
+    "Year": "2018"
+  },
+  {
+    "Key": "@Uemura_2020",
+    "Title": "The Effectiveness of an Active Learning Program in Promoting a Healthy Lifestyle among Older Adults with Low Health Literacy: A Randomized Controlled Trial",
+    "Author": "Uemura, Kazuki",
+    "Publisher": "Gerontology",
+    "Year": "2020"
+  },
+  {
+    "Key": "@Renal_2023",
+    "Title": "2023 USRDS Annual Data Report: Epidemiology of kidney disease in the United States",
+    "Author": "United States Renal Data System",
+    "Publisher": "",
+    "Year": "2023"
+  },
+  {
+    "Key": "@VanDipten_2017",
+    "Title": "Adherence to chronic kidney disease guidelines in primary care patients is associated with comorbidity",
+    "Author": "van Dipten, Carolina",
+    "Publisher": "Fam Pract",
+    "Year": "2017"
+  },
+  {
+    "Key": "@Wagner_2020",
+    "Title": "Estimating Costs of an Implementation Intervention",
+    "Author": "Wagner, Todd H.",
+    "Publisher": "Medical Decision Making",
+    "Year": "2020"
+  },
+  {
+    "Key": "@Wan_2019_HTN",
+    "Title": "Association of Blood Pressure and Risk of Cardiovascular and Chronic Kidney Disease in Hong Kong Hypertensive Patients",
+    "Author": "Wan, Eric Yuk Fai",
+    "Publisher": "Hypertension",
+    "Year": "2019"
+  },
+  {
+    "Key": "@Wan_2019_Burden",
+    "Title": "Burden of CKD and Cardiovascular Disease on Life Expectancy and Health Service Utilization: a Cohort Study of Hong Kong Chinese Hypertensive Patients",
+    "Author": "Wan, Eric Yuk Fai",
+    "Publisher": "Journal of the American Society of Nephrology",
+    "Year": "2019"
+  },
+  {
+    "Key": "@WHO_2010",
+    "Title": "A healthy lifestyle - WHO recommendations",
+    "Author": "World Health Organization",
+    "Publisher": "World Health Organization",
+    "Year": "2010"
+  },
+  {
+    "Key": "@WHO_2013",
+    "Title": "Urinary iodine concentrations for determining iodine status deficiency in populations. Vitamin and Mineral Nutrition Information System",
+    "Author": "World Health Organization",
+    "Publisher": "World Health Organization",
+    "Year": "2013"
+  },
+  {
+    "Key": "@WHO_2020",
+    "Title": "Healthy diet",
+    "Author": "World Health Organization",
+    "Publisher": "World Health Organization",
+    "Year": "2020"
+  },
+  {
+    "Key": "@WHO_2024",
+    "Title": "Physical activity",
+    "Author": "World Health Organization",
+    "Publisher": "World Health Organization",
+    "Year": "2024"
+  },
+  {
+    "Key": "@Wong_2017",
+    "Title": "Diabetes in older people: position statement of The Hong Kong Geriatrics Society and the Hong Kong Society of Endocrinology, Metabolism and Reproduction",
+    "Author": "Wong, CW",
+    "Publisher": "Hong Kong Medical Journal",
+    "Year": "2017"
+  },
+  {
+    "Key": "@Wong_2019",
+    "Title": "Direct and indirect costs of end-stage renal disease patients in the first and second years after initiation of nocturnal home haemodialysis, hospital haemodialysis and peritoneal dialysis",
+    "Author": "Wong, Carlos K H",
+    "Publisher": "Nephrology Dialysis Transplantation",
+    "Year": "2019"
+  },
+  {
+    "Key": "@Wong_2016",
+    "Title": "Cost-Effectiveness of a Short Message Service Intervention to Prevent Type 2 Diabetes from Impaired Glucose Tolerance",
+    "Author": "Wong, Carlos K. H.",
+    "Publisher": "Journal of Diabetes Research",
+    "Year": "2016"
+  },
+  {
+    "Key": "@Wong_2010",
+    "Title": "Comparison of primary care experiences among adults in general outpatient clinics and private general practice clinics in Hong Kong",
+    "Author": "Wong, Samuel Y. S.",
+    "Publisher": "BMC Public Health",
+    "Year": "2010"
+  },
+  {
+    "Key": "@Yang_2020",
+    "Title": "Individualised risk prediction model for new-onset, progression and regression of chronic kidney disease in a retrospective cohort of patients with type 2 diabetes under primary care in Hong Kong",
+    "Author": "Yang, Lin",
+    "Publisher": "BMJ Open",
+    "Year": "2020"
+  },
+  {
+    "Key": "@Yang_2006",
+    "Title": "End-stage renal disease risk equations for Hong Kong Chinese patients with type 2 diabetes: Hong Kong Diabetes Registry",
+    "Author": "Yang, X. L.",
+    "Publisher": "Diabetologia",
+    "Year": "2006"
+  },
+  {
+    "Key": "@Zhuo_2020",
+    "Title": "High Prevalence and Low Awareness of Albuminuria in the Community Setting in the KDSAP",
+    "Author": "Zhuo, Min",
+    "Publisher": "Kidney International Reports",
+    "Year": "2020"
   }
 ]
