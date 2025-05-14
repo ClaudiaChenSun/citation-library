@@ -3,9 +3,109 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Test Page</title>
+  <title>Searchable Citation Library</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 20px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+    .no-results {
+      text-align: center;
+      font-style: italic;
+    }
+  </style>
 </head>
 <body>
-  <h1>Hello, GitHub Pages!</h1>
+  <h1>Searchable Citation Library</h1>
+  <input type="text" id="searchInput" placeholder="Search by name, title, publisher, or year...">
+
+  <table id="citationTable">
+    <thead>
+      <tr>
+        <th>Key</th>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Publisher</th>
+        <th>Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Rows will be dynamically added here -->
+    </tbody>
+  </table>
+
+  <script>
+    // Load citation data
+    fetch('references.json')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('#citationTable tbody');
+        const searchInput = document.getElementById('searchInput');
+
+        // Function to render the table rows
+        function renderTable(citations) {
+          tableBody.innerHTML = ''; // Clear existing rows
+          if (citations.length === 0) {
+            tableBody.innerHTML = '<tr class="no-results"><td colspan="5">No results found</td></tr>';
+            return;
+          }
+          citations.forEach(citation => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+              <td>${citation.Key}</td>
+              <td>${citation.Title}</td>
+              <td>${citation.Author}</td>
+              <td>${citation.Publisher}</td>
+              <td>${citation.Year}</td>
+            `;
+            tableBody.appendChild(row);
+          });
+        }
+
+        // Initial rendering of the table
+        renderTable(data);
+
+        // Search functionality
+        searchInput.addEventListener('keyup', () => {
+          const searchTerm = searchInput.value.toLowerCase();
+          const filteredData = data.filter(citation =>
+            citation.Key.toLowerCase().includes(searchTerm) ||
+            citation.Title.toLowerCase().includes(searchTerm) ||
+            citation.Author.toLowerCase().includes(searchTerm) ||
+            citation.Publisher.toLowerCase().includes(searchTerm) ||
+            citation.Year.toString().includes(searchTerm)
+          );
+          renderTable(filteredData);
+        });
+      })
+      .catch(error => console.error('Error loading citation data:', error));
+  </script>
 </body>
 </html>
