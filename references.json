@@ -7,17 +7,136 @@
     "Year": 2023
   },
   {
-    "Key": "@PrimaryHealthcare_2022",
+    "Key": "@DepartmentOfHealth_2023",
+    "Title": "Healthy Eating Food Pyramid in Hong Kong",
+    "Author": "Department of Health",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2023
+  },
+  {
+    "Key": "@HealthBureau_2022",
     "Title": "Primary Healthcare Blueprint",
     "Author": "Health Bureau",
     "Publisher": "The Government of the Hong Kong SAR",
     "Year": 2022
   },
   {
+    "Key": "@Fottrell_2019",
+    "Title": "Community groups or mobile phone messaging to prevent and control type 2 diabetes and intermediate hyperglycaemia in Bangladesh (DMagic): a cluster-randomised controlled trial",
+    "Author": "Fottrell, Edward",
+    "Publisher": "The Lancet Diabetes & Endocrinology",
+    "Year": 2019
+  },
+  {
+    "Key": "@CensusStatistics_2021",
+    "Title": "Statistics - By Subject",
+    "Author": "Census and Statistics Department",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2021
+  },
+  {
+    "Key": "@DepartmentOfHealth_2024a",
+    "Title": "Population Health Survey 2020-22 (Part I)",
+    "Author": "Department of Health",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2024
+  },
+  {
+    "Key": "@DepartmentOfHealth_2024b",
+    "Title": "Population Health Survey 2020-22 (Part II)",
+    "Author": "Department of Health",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2024
+  },
+  {
+    "Key": "@CensusStatistics_2024a",
+    "Title": "Thematic Household Survey Report - Report No. 79 - Pattern of Smoking",
+    "Author": "Census and Statistics Department",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2024
+  },
+  {
+    "Key": "@CensusStatistics_2024b",
+    "Title": "Table 110-01001 : Population by Sex and Age Group",
+    "Author": "Census and Statistics Department",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2024
+  },
+  {
+    "Key": "@CHP_2024",
+    "Title": "Age-standardised Death Rates by Leading Causes of Death, 2001 - 2023",
+    "Author": "The Centre for Health Protection",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2024
+  },
+  {
+    "Key": "@CHP_2024b",
+    "Title": "Diabetes Mellitus",
+    "Author": "The Centre for Health Protection",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2024
+  },
+  {
+    "Key": "@PHIS_2025",
+    "Title": "Diabetes Mellitus",
+    "Author": "Public Health Information System (PHIS)",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2025
+  },
+  {
+    "Key": "@NCD_2025",
+    "Title": "Report of Health Behaviour Survey 2023",
+    "Author": "Non-communicable Disease Branch, Centre for Health Protection",
+    "Publisher": "The Government of the Hong Kong SAR",
+    "Year": 2025
+  },
+  {
     "Key": "@Anthony_2015",
-    "Title": "Reducing Health Risk Factors in Workplaces",
+    "Title": "Reducing Health Risk Factors in Workplaces of Low and Middle-Income Countries",
     "Author": "Anthony, D.",
     "Publisher": "Public Health Nursing",
     "Year": 2015
+  },
+  {
+    "Key": "@Aung_2019",
+    "Title": "Effectiveness of a new multi-component smoking cessation service package for patients with hypertension and diabetes in northern Thailand: a randomized controlled trial (ESCAPE study)",
+    "Author": "Aung, Myo Nyein",
+    "Publisher": "Substance Abuse Treatment, Prevention, and Policy",
+    "Year": 2019
+  },
+  {
+    "Key": "@Brown_2023",
+    "Title": "Nutrition and Exercise for Wellness and Recovery: A Randomized Controlled Trial of a Community-Based Health Intervention",
+    "Author": "Brown, Catana",
+    "Publisher": "Psychiatric Services",
+    "Year": 2023
+  },
+  {
+    "Key": "@Chan_2024",
+    "Title": "The Hong Kong Renal Registry: a recent update",
+    "Author": "Chan, John YH",
+    "Publisher": "Hong Kong Medical Journal",
+    "Year": 2024
+  },
+  {
+    "Key": "@Chandraratne_2019",
+    "Title": "The effect of youths as change agents on cardiovascular disease risk factors among adult neighbours: a cluster randomised controlled trial in Sri Lanka",
+    "Author": "Chandraratne, Nadeeka",
+    "Publisher": "BMC Public Health",
+    "Year": 2019
+  },
+  {
+    "Key": "@Chen_2023",
+    "Title": "Efficacy and safety of non-steroidal mineralocorticoid receptor antagonists for renal outcomes: A systematic review and meta-analysis",
+    "Author": "Chen, Qi",
+    "Publisher": "Diabetes Research and Clinical Practice",
+    "Year": 2023
+  },
+  {
+    "Key": "@Cheung_2020",
+    "Title": "Can voucher scheme enhance primary care provision for older adults: cross-sectional study in Hong Kong",
+    "Author": "Cheung, Johnny T. K.",
+    "Publisher": "BMC Geriatrics",
+    "Year": 2020
   }
 ]
